@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <section id="dev">
+            <group id="custom_css" type="text" sortOrder="1000" showInDefault="1" showInWebsite="0" showInStore="0">
+                <label>Custom CSS</label>
+                <field id="custom_css" translate="label comment" type="textarea" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Custom CSS</label>
+                    <comment>Custom CSS to be added on all pages</comment>
+                </field>
+            </group>
+        </section>
+    </system>
+</config>

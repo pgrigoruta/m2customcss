@@ -1,0 +1,22 @@
+{
+    "name": "pgrigoruta/module-customcss",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "paul.grigrouta@gmail.com",
+            "name": "Custom CSS"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pgrigoruta\\CustomCSS\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
