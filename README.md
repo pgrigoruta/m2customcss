@@ -9,4 +9,4 @@ Allows editing a site-wide CSS file via the Magento 2 admin
 
 # Usage
 
-Add your own CSS at Stores > Configuratin > Developer > Custom CSS. Cache clearning might be needed for the changes to appear in the frontend.
+Add your own CSS at Stores > Configuration > Developer > Custom CSS. Cache clearning might be needed for the changes to appear in the frontend.
